@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ortonville Farmers Market</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Ortonville Farmers Market</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 May 2018 13:49:50 +1000</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contact</title>
+      <link>http://example.org/contact/</link>
+      <pubDate>Sat, 12 May 2018 13:49:50 +1000</pubDate>
+      
+      <guid>http://example.org/contact/</guid>
+      <description>Get some honey </description>
+    </item>
+    
+    <item>
+      <title>Thanks for Contacting Us</title>
+      <link>http://example.org/contact_thanks/</link>
+      <pubDate>Sat, 12 May 2018 13:38:38 +1000</pubDate>
+      
+      <guid>http://example.org/contact_thanks/</guid>
+      <description>Thanks for touching base with us. Someone from Alpha Church will be in touch soon.</description>
+    </item>
+    
+    <item>
+      <title>10 Reasons to Support Farmers Markets</title>
+      <link>http://example.org/benefits/</link>
+      <pubDate>Tue, 01 May 2018 07:39:12 +1000</pubDate>
+      
+      <guid>http://example.org/benefits/</guid>
+      <description>From savoring produce at the peak of freshness to meeting the people who grow your food, there are countless reasons to support farmers markets. Here are just a few!
+ Taste Real Flavors The fruits and vegetables you buy at the farmers market are the freshest and tastiest available. Fruits are allowed to ripen fully in the field and are brought directly to you—no long-distance shipping, no gassing to simulate the ripening process, no sitting for weeks in storage.</description>
+    </item>
+    
+    <item>
+      <title>Join the Market</title>
+      <link>http://example.org/vendorinformation/</link>
+      <pubDate>Mon, 30 Apr 2018 14:27:13 +1000</pubDate>
+      
+      <guid>http://example.org/vendorinformation/</guid>
+      <description>Interested in becoming a vendor at the market? Great, we are interested in having you join!
+ The first step is to read and fill out the vendor application here.
+This application can be printed and mailed to the Ortonville DDA office at 476 Mill Street, Ortonville, MI 48462, or they can be emailed as an attachment to aaron@blahblah.com
+ The next step is to read and sign the market rules.</description>
+    </item>
+    
+    <item>
+      <title>Our Vendors</title>
+      <link>http://example.org/vendorlist/</link>
+      <pubDate>Mon, 30 Apr 2018 14:27:13 +1000</pubDate>
+      
+      <guid>http://example.org/vendorlist/</guid>
+      <description> Spratt
+ Blatt
+ Matt
+  </description>
+    </item>
+    
+  </channel>
+</rss>
